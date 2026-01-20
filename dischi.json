@@ -2,22 +2,36 @@
     {
         "titolo": "Hybrid Theory",
         "artista": "Linkin Park",
-        "cover": "https://www.longliverocknroll.it/wp-content/uploads/2020/10/Linkin-Park-Hybrid-Theory-1536x1024.jpg",
+        "cover": "https:\/\/www.longliverocknroll.it\/wp-content\/uploads\/2020\/10\/Linkin-Park-Hybrid-Theory-1536x1024.jpg",
         "anno": 2000,
         "genere": "Nu Metal"
     },
     {
         "titolo": "Random Access Memories",
         "artista": "Daft Punk",
-        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68DvNetqtMTD0hathTIaSpUskr3dxmStN9g&s",
+        "cover": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR68DvNetqtMTD0hathTIaSpUskr3dxmStN9g&s",
         "anno": 2013,
         "genere": "Electronic"
     },
     {
         "titolo": "21",
         "artista": "Adele",
-        "cover": "https://m.media-amazon.com/images/I/61KB57Xfy-L._UF1000,1000_QL80_.jpg",
+        "cover": "https:\/\/m.media-amazon.com\/images\/I\/61KB57Xfy-L._UF1000,1000_QL80_.jpg",
         "anno": 2011,
         "genere": "Pop"
+    },
+    {
+        "titolo": "ddd",
+        "artista": "ddd",
+        "cover": "ddd",
+        "anno": "555",
+        "genere": "fff"
+    },
+    {
+        "titolo": "ddd",
+        "artista": "ddd",
+        "cover": "ddd",
+        "anno": "55",
+        "genere": "g"
     }
 ]

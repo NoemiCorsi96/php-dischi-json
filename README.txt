@@ -4,7 +4,7 @@ I dischi dovranno avere questa struttura: titolo, artista, url della cover, anno
 Consigli
 Nello svolgere l’esercizio seguite un approccio graduale.
 Prima assicuratevi che la vostra pagina index.php (riesca a comunicare correttamente con il vostro
- script PHP)
+ script PHP)ok
 Solo a questo punto sarà utile passare alla lettura della lista da un file JSON.
-Bonus
+Bonusok
 Tramite un form, dai la possibilità all’utente di aggiungere un disco dall’elenco.
