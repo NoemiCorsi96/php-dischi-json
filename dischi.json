@@ -1,0 +1,16 @@
+[
+    {
+        "titolo": "Hybrid Theory",
+        "artista": "Linkin Park",
+        "cover": "https://www.longliverocknroll.it/wp-content/uploads/2020/10/Linkin-Park-Hybrid-Theory-1536x1024.jpg",
+        "anno": 2000,
+        "genere": "Nu Metal"
+    },
+    {
+        "titolo": "Random Access Memories",
+        "artista": "Daft Punk",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68DvNetqtMTD0hathTIaSpUskr3dxmStN9g&s",
+        "anno": 2013,
+        "genere": "Electronic"
+    }
+]
