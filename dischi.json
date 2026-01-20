@@ -12,5 +12,12 @@
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68DvNetqtMTD0hathTIaSpUskr3dxmStN9g&s",
         "anno": 2013,
         "genere": "Electronic"
+    },
+    {
+        "titolo": "21",
+        "artista": "Adele",
+        "cover": "https://m.media-amazon.com/images/I/61KB57Xfy-L._UF1000,1000_QL80_.jpg",
+        "anno": 2011,
+        "genere": "Pop"
     }
 ]
